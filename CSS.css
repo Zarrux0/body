@@ -1,0 +1,6 @@
+.box{
+    width: 500px;
+    border-radius: 10px ;
+    border:5px solid red ;
+    margin: 0px 0px 0px 400px;
+}
